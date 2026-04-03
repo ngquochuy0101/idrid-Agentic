@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Datasets
+Dataset/
+data/
+
+# AI Agents and Temporary Code
+.agents/
+fix_notebook.py
+.gemini/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+__pycache__/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
