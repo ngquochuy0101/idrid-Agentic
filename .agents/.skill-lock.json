@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "skills": {
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
+      "installedAt": "2026-04-03T01:48:15.414Z",
+      "updatedAt": "2026-04-03T02:25:46.428Z"
+    },
+    "python-executor": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/inferen-sh/skills.git",
+      "skillPath": "tools/utilities/python-executor/SKILL.md",
+      "skillFolderHash": "4e58fbd24e217294dcce306b1391ea86f7b60fa9",
+      "installedAt": "2026-04-03T02:23:12.604Z",
+      "updatedAt": "2026-04-03T02:28:42.566Z"
+    },
+    "python-performance-optimization": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-performance-optimization/SKILL.md",
+      "skillFolderHash": "f0e64087a8f9685ef5d394b03aefa1dc0accd65a",
+      "installedAt": "2026-04-03T02:24:00.484Z",
+      "updatedAt": "2026-04-03T02:24:00.484Z"
+    },
+    "python-testing-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-testing-patterns/SKILL.md",
+      "skillFolderHash": "28ce19935b2b48708af69e47e7686936a249c08b",
+      "installedAt": "2026-04-03T02:24:15.111Z",
+      "updatedAt": "2026-04-03T02:24:15.111Z"
+    },
+    "systematic-debugging": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/systematic-debugging/SKILL.md",
+      "skillFolderHash": "828c239ac986cc1fc7edd10292f66e4a3640e9c0",
+      "installedAt": "2026-04-03T02:25:30.552Z",
+      "updatedAt": "2026-04-03T02:25:30.552Z"
+    },
+    "web-search": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/inferen-sh/skills.git",
+      "skillPath": "tools/llm/web-search/SKILL.md",
+      "skillFolderHash": "a54e16ada6bd9332b4c706e2bb1292653e2a4255",
+      "installedAt": "2026-04-03T02:26:20.733Z",
+      "updatedAt": "2026-04-03T02:26:20.733Z"
+    },
+    "fsi-strip-profile": {
+      "source": "anthropics/financial-services-plugins",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/financial-services-plugins.git",
+      "skillPath": "investment-banking/skills/strip-profile/SKILL.md",
+      "skillFolderHash": "ad6ecb393667f7819c05dabee09cce3bd0696014",
+      "installedAt": "2026-04-03T02:27:03.237Z",
+      "updatedAt": "2026-04-03T02:27:03.237Z"
+    },
+    "mcp-builder": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/mcp-builder/SKILL.md",
+      "skillFolderHash": "9173e2c2107aac82d4ca6c726d71e89d11760470",
+      "pluginName": "example-skills",
+      "installedAt": "2026-04-03T02:28:03.523Z",
+      "updatedAt": "2026-04-03T02:28:03.523Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "firebender",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "warp",
+    "augment",
+    "bob",
+    "claude-code",
+    "openclaw",
+    "codebuddy",
+    "command-code",
+    "continue",
+    "cortex",
+    "crush",
+    "droid",
+    "goose",
+    "junie",
+    "iflow-cli",
+    "kilo",
+    "kiro-cli",
+    "kode",
+    "mcpjam",
+    "mistral-vibe",
+    "mux",
+    "openhands",
+    "pi",
+    "qoder",
+    "qwen-code",
+    "roo",
+    "trae",
+    "trae-cn",
+    "windsurf",
+    "zencoder",
+    "neovate",
+    "pochi",
+    "adal"
+  ]
+}
